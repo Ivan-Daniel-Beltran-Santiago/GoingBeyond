@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoingBeyond", "GoingBeyond\GoingBeyond\GoingBeyond.csproj", "{D0CBA9DD-1973-41EE-9A74-FF70F26ADFDB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GoingBeyondContent", "GoingBeyond\GoingBeyondContent\GoingBeyondContent.contentproj", "{30D26337-1933-4157-89DA-C0E2907C0E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0CBA9DD-1973-41EE-9A74-FF70F26ADFDB}.Debug|x86.ActiveCfg = Debug|x86
+		{D0CBA9DD-1973-41EE-9A74-FF70F26ADFDB}.Debug|x86.Build.0 = Debug|x86
+		{D0CBA9DD-1973-41EE-9A74-FF70F26ADFDB}.Release|x86.ActiveCfg = Release|x86
+		{D0CBA9DD-1973-41EE-9A74-FF70F26ADFDB}.Release|x86.Build.0 = Release|x86
+		{30D26337-1933-4157-89DA-C0E2907C0E84}.Debug|x86.ActiveCfg = Debug|x86
+		{30D26337-1933-4157-89DA-C0E2907C0E84}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66B068C-85AD-4047-84A4-90A739D757FD}
+	EndGlobalSection
+EndGlobal
